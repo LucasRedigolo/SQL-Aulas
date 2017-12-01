@@ -1,0 +1,10 @@
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\bin\Debug\netcoreapp2.0\ExemploSQL.deps.json
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\bin\Debug\netcoreapp2.0\ExemploSQL.runtimeconfig.json
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\bin\Debug\netcoreapp2.0\ExemploSQL.runtimeconfig.dev.json
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\bin\Debug\netcoreapp2.0\ExemploSQL.dll
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\bin\Debug\netcoreapp2.0\ExemploSQL.pdb
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\obj\Debug\netcoreapp2.0\ExemploSQL.csproj.CoreCompileInputs.cache
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\obj\Debug\netcoreapp2.0\ExemploSQL.AssemblyInfoInputs.cache
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\obj\Debug\netcoreapp2.0\ExemploSQL.AssemblyInfo.cs
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\obj\Debug\netcoreapp2.0\ExemploSQL.dll
+c:\Users\43692939876\Desktop\Projetos\SQL-Aulas\ExemploSQL\obj\Debug\netcoreapp2.0\ExemploSQL.pdb
